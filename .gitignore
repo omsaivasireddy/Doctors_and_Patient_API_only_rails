@@ -71,3 +71,5 @@ Thumbs.db
 # PID files and local database files
 /db/*.sqlite3
 /db/*.sqlite3-journal
+
+/home/lenovo/.ssh/id_rsa
